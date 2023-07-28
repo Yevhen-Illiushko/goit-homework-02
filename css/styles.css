@@ -28,7 +28,7 @@ body{font-family: "Roboto", sans-serif;
 
 
         .logo-link.link:hover,
-        .page-nav.link:focus {
+        .logo-link.link:focus {
             color: #404bbf;
         }
     .link {
@@ -44,9 +44,10 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     font-weight: 500;}
 
-.nav-list.link:hover,
-.nav-list.link:focus
-{color: #404bbf;}
+    .nav-list.link:hover,
+    .nav.list:focus {
+                    color: #404bbf;
+                }
 
 .address {color: var(--slate, #434455);
     font-family: Roboto;
