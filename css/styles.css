@@ -27,8 +27,8 @@ body{font-family: "Roboto", sans-serif;
     color: var(--iris);}
 
 
-        .logo-link.link:hover,
-        .logo-link.link:focus {
+        .logo-link:hover,
+        .logo-link:focus {
             color: #404bbf;
         }
     .link {
@@ -44,8 +44,8 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     font-weight: 500;}
 
-    .nav-list.link:hover,
-    .nav.list.link:focus {
+    .nav-list:hover,
+    .nav.list:focus {
                     color: #404bbf;
                 }
 
