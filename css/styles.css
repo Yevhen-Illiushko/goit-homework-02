@@ -27,13 +27,14 @@ body{font-family: "Roboto", sans-serif;
     color: var(--iris);}
 
 
-        .logo-link.link:hover
-                {
-                    color: #404bbf;
-                }
-        .logo-link.link:focus {
-        color: #404bbf;
-        }
+        .logo-link.link:hover,
+        .logo-link.link:focus, 
+        .nav-list.link:hover,
+        .nav-list.link:focus,
+        .contact-link.link:hover,
+        .contact-link.link:focus
+        {color: #404bbf;}
+
     .link {
     text-decoration: none;}
 
@@ -47,21 +48,7 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     font-weight: 500;}
 
-    .nav-list.link:hover
-        {
-            color: #404bbf;
-        }
-    .nav-list.link:focus {
-    color: #404bbf;
-                }
-
-    .contact-link.link:hover{
-                color: #404bbf;
-                }
-     .contact-link.link:focus{
-                    color: #404bbf;
-                }
-
+   
 .address {color: var(--slate, #434455);
     font-family: Roboto;
     font-size: 16px;
