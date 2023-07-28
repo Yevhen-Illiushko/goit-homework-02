@@ -6,11 +6,20 @@
 --ocean: #404BBF;
 --cloud: #F4F4FD;
 --white: #ffffff;
---font-family: "Roboto", sans-serif;
+
 
 }
 
+body {
+        
+        font-family: "Roboto", sans-serif;
+        font-style: normal;
+        color: var(--state);
+        background-color: var(--white);
+    }
+.list {list-style: none;}
 
+.link {text-decoration: none;}
 
 .logo-link link {
     font-family: "Raleway", sans-serif,
