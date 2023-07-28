@@ -9,20 +9,22 @@ background-color: #ffffff
 .body {
         
         font-family: "Roboto", sans-serif,
-        color #434455;
-        background-color #ffffff;
+        color: #434455;
+        background-color: #ffffff;
     }
 
-.logo-link {color: var(--iris, #4D5AE5);
+.logo-link link {;
     font-family: "Raleway", sans-serif,
-    font-size: 18px;
-    font-style: normal;
     font-weight: 800;
-    line-height: 21px;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;}
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none
+}
 
-    .logo-accent  {color: var(--navyblue, #2E2F42);}
+    .logo-accent  {color:#2e2f42}
 
 .nav-list-link {color: var(--navyblue, #2E2F42);
     font-family: Roboto;
