@@ -24,7 +24,9 @@ body{font-family: "Roboto", sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--iris);
+    color: var(--iris);}
+
+    .link {
     text-decoration: none;}
 
     .logo-accent {color:#2e2f42}
