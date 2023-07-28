@@ -10,7 +10,6 @@
 }
 
 body{font-family: "Roboto", sans-serif;
-    font-style: normal;
     color: var(--state);
     background-color: var(--white);}
     
@@ -19,14 +18,13 @@ body{font-family: "Roboto", sans-serif;
 .link {text-decoration: none;}
 
 .logo-link link {
-    font-family: "Raleway", sans-serif,
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
-    text-decoration: none
+    color: var(--iris);
 }
 
     .logo-accent  {color:#2e2f42}
