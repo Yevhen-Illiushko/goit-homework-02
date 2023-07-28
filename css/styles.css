@@ -67,3 +67,20 @@ body{font-family: "Roboto", sans-serif;
     line-height: 24px;
     letter-spacing: 0.32px;}
 
+.section-one {background: var(--navyblue, #2E2F42);}
+
+.section-one-text {color: var(--white, #FFF);
+    text-align: center;
+
+    /* Header 1 */
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    /* 107.143% */
+    letter-spacing: 1.12px;}
+
+.button {border-radius: 4px;
+    background: var(--iris, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
