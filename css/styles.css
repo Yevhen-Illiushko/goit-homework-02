@@ -90,5 +90,9 @@ body{font-family: "Roboto", sans-serif;
     color: var(--white);
     cursor: pointer;}
 
-.section-one-button:hover,
-.section-one-button:focus {color: var(--ocean);} 
+.section-one-button:hover {
+        color: var(--ocean);
+    }
+.section-one-button:focus {
+        color: var(--ocean);
+    }
