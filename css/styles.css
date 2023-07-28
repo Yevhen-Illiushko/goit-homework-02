@@ -55,6 +55,13 @@ body{font-family: "Roboto", sans-serif;
     color: #404bbf;
                 }
 
+    .contact-link.link:hover{
+                color: #404bbf;
+                }
+     .contact-link.link:focus{
+                    color: #404bbf;
+                }
+
 .address {color: var(--slate, #434455);
     font-family: Roboto;
     font-size: 16px;
