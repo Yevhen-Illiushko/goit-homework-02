@@ -81,14 +81,14 @@ body{font-family: "Roboto", sans-serif;
     text-align: center;}
 
 .section-one-button {
-    background-color: #4D5AE5;
+    background-color: var(--iris);
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff;
+    color: var(--white);
     cursor: pointer;}
 
 .section-one-button:hover,
-.section-one-button:focus {color: #404BBF;} 
+.section-one-button:focus {color: var(--ocean);} 
