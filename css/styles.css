@@ -48,7 +48,7 @@ body{font-family: "Roboto", sans-serif;
 
 .list {list-style: none}
 
-.contact-link {color: var(--slate, #434455);
+.contact-link {color: var(--state, #434455);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
