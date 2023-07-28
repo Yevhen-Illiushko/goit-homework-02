@@ -80,7 +80,7 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 1.12px;
 text-align: center};
 
-.button {
+.button-section-one {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -91,5 +91,5 @@ text-align: center};
     cursor: pointer
 
     }
-.button:hover,
-.button:focus {color: #404BBF;}
+.button-section-one:hover,
+.button-section-one:focus {color: #404BBF;}
