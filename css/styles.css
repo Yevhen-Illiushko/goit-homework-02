@@ -35,9 +35,9 @@ body{font-family: "Roboto", sans-serif;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;}
+    line-height: 1.5px;
+    letter-spacing: 0.02px;
+font-weight: 500;}
 
 .address {color: var(--slate, #434455);
     font-family: Roboto;
