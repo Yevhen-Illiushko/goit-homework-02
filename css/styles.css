@@ -25,7 +25,6 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris);
-    text-decoration: none;
 }
 
     .logo-accent {color:#2e2f42}
