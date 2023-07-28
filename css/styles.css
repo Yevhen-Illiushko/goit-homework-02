@@ -9,11 +9,10 @@
 
 }
 
-body 
-        font-family: "Roboto", sans-serif;
+body{font-family: "Roboto", sans-serif;
         font-style: normal;
         color: var(--state);
-        background-color: var(--white);
+        background-color: var(--white);}
     
 .list {list-style: none;}
 
