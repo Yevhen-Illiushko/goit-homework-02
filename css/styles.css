@@ -27,9 +27,9 @@ body{font-family: "Roboto", sans-serif;
     color: var(--iris);}
 
 
-        .logo-link:hover,
-        .logo-link:focus {
-            color: #404bbf;
+        .logo-link.link:hover,
+        .logo-link.link:focus {
+        color: #404bbf;
         }
     .link {
     text-decoration: none;}
@@ -44,9 +44,9 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     font-weight: 500;}
 
-    .nav-list:hover,
-    .nav.list:focus {
-                    color: #404bbf;
+    .nav-list.link:hover,
+    .nav-list.link:focus {
+    color: #404bbf;
                 }
 
 .address {color: var(--slate, #434455);
