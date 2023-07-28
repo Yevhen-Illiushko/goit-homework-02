@@ -5,14 +5,15 @@
 --iris: #4D5AE5;
 --ocean: #404BBF;
 --cloud: #F4F4FD;
+--white: #ffffff;
 
 }
 
 body {
         
         font-family: "Roboto", sans-serif,
-        color: #434455;
-        background-color: #ffffff;
+        color: var(--state);
+        background-color: var(--white)
     }
 
 .logo-link link {
