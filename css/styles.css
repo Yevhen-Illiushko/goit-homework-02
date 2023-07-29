@@ -137,3 +137,15 @@ background-color: #FFFFFF;
         letter-spacing: 0.02em;
         color: var(--state);
     }
+
+    .footer {
+        background-color: var(--navy-blue);
+    }
+    .logo-accent-dark {
+        color: #f4f4fd; 
+    }
+    .footer-text {
+        line-height: 1.5;
+        color: var(--cloud);
+        letter-spacing: 0.02em;
+    }
