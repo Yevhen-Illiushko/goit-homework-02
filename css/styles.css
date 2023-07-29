@@ -97,7 +97,8 @@ body{font-family: "Roboto", sans-serif;
         background-color: var(--ocean);
     }
 
-    .section-two-title {
+    .section-two-title,
+    .section-four-title2 {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -117,8 +118,13 @@ body{font-family: "Roboto", sans-serif;
         text-align: center;
         text-transform: capitalize;
         color: var(--navy-blue);
+        letter-spacing: 0.02em;
     }
     .section-four {
         background-color: #F4F4FD;
     }
+
+.section-four-list {
+background-color: #FFFFFF;
+}
 
