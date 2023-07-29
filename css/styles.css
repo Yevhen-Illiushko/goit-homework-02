@@ -162,3 +162,9 @@ background-color: #FFFFFF;
             background-color: var(--cloud);
             cursor: pointer;
         }
+
+        .button-p:hover,
+        .button-p:focus {
+            color: var(--white);
+            background-color: var(--ocean);
+        }
